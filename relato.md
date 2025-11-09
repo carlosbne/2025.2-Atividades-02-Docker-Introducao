@@ -78,4 +78,51 @@ Passo 7 - Voltando ao diretório "Home", conferindo local, excluindo arquivo, e 
 
 ### Gerenciamento de Pacotes
 
-Passo 1 - 
+Passo 1 - Atualizando pacotes
+
+![Passo 0](https://i.postimg.cc/RZgP2GDP/2-1.png)
+
+Passo 2 - Instalando editor de texto nano
+
+![Passo 0](https://i.postimg.cc/NjdNZbzb/2-2.png)
+
+Passo 3 - Verificando se foi instalado
+
+![Passo 0](https://i.postimg.cc/Hk6SF3h9/2-3.png)
+
+Passo 4 - Removendo nano
+
+![Passo 0](https://i.postimg.cc/Jzr6TSP6/3-4.png)
+---
+
+#### Permissões de arquivos
+Modificar permissões
+
+Passo - Criando arquivo script.sh, dando permissão de execução, verficando permissões
+
+![Passo 0](https://i.postimg.cc/TwVnv3PK/1-permissoes.png)
+---
+
+#### Processos em execuação
+Monitorar e encerrar processos.
+
+Passo 1 - Listagem de processos
+
+![Passo 0](https://i.postimg.cc/CLLr7Wvk/processos.png)
+
+Passo 2- Encerrando processos em execução
+
+![Passo 0](https://i.postimg.cc/8PPX4qyB/processos-2.png)
+---
+
+### Encerrando
+
+Encerrando contêiner e removendo
+
+![Passo 0](https://i.postimg.cc/yNFTsPQx/final.png)
+---
+### Conclusão
+
+A atividade permitiu praticar comandos básicos do Linux dentro do Docker.
+Aprendi a navegar por diretórios, criar e gerenciar arquivos e processos.
+Foi uma experiência útil para entender melhor o funcionamento do sistema operacional.
